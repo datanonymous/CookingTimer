@@ -69,5 +69,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="27dp"
             tools:layout_editor_absoluteX="20dp" android:id="@+id/button"/>
+    <Button
+            android:text="Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" tools:layout_editor_absoluteY="26dp"
+            tools:layout_editor_absoluteX="154dp" android:id="@+id/button2"/>
 
 </android.support.constraint.ConstraintLayout>
